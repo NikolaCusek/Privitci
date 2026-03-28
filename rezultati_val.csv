@@ -1,0 +1,25 @@
+Model,Skup podataka,Broj epoha,Veličina slike,Stopa Učenja,Batch size,Vrijeme Učenja (s),mAP:50,mAP:95,Recall,Precision
+yolov8n.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,32,278.58,0.995,0.7729,1.0,0.9747
+yolov8n.pt,ZavrsniDatasets/JPEG/data.yaml,100,640,0.01,32,272.37,0.9916,0.7787,0.9898,0.9704
+yolov8s.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,32,376.4,0.995,0.7835,0.9978,0.9816
+yolov8s.pt,ZavrsniDatasets/JPEG/data.yaml,100,640,0.01,32,372.68,0.9867,0.7503,0.9805,0.9324
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,32,604.01,0.9926,0.7979,0.9956,0.9655
+yolov8m.pt,ZavrsniDatasets/JPEG/data.yaml,100,640,0.01,32,610.29,0.995,0.7883,1.0,0.9825
+yolov8l.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,16,1029.03,0.995,0.7837,0.9827,0.9835
+yolov8l.pt,ZavrsniDatasets/JPEG/data.yaml,100,640,0.01,16,870.06,0.995,0.7898,0.9996,0.9845
+yolov8x.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,16,1665.58,0.995,0.7871,0.9986,0.9866
+yolov8x.pt,ZavrsniDatasets/JPEG/data.yaml,100,640,0.01,16,1237.38,0.9944,0.7778,0.9993,0.9756
+yolov5s.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,32,390.06,0.995,0.8034,1.0,0.9896
+yolov5s.pt,ZavrsniDatasets/JPEG/data.yaml,100,640,0.01,32,381.85,0.995,0.7998,1.0,0.9795
+yolov5x.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,8,1388.48,0.995,0.768,0.9968,0.9894
+yolov5x.pt,ZavrsniDatasets/JPEG/data.yaml,100,640,0.01,8,1283.1,0.995,0.7743,0.9943,0.9894
+yolo11n.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,32,297.91,0.995,0.7941,1.0,0.9909
+yolo11n.pt,ZavrsniDatasets/JPEG/data.yaml,100,640,0.01,32,282.34,0.995,0.7944,0.9964,0.9892
+yolo11s.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,32,451.66,0.995,0.7946,1.0,0.9924
+yolo11s.pt,ZavrsniDatasets/JPEG/data.yaml,100,640,0.01,32,407.12,0.995,0.7986,1.0,0.9964
+yolo11m.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,16,845.6,0.995,0.7726,1.0,0.9898
+yolo11m.pt,ZavrsniDatasets/JPEG/data.yaml,100,640,0.01,16,784.69,0.995,0.7771,0.9986,0.9959
+yolo11l.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,16,992.72,0.995,0.7837,1.0,0.9905
+yolo11l.pt,ZavrsniDatasets/JPEG/data.yaml,100,640,0.01,16,951.87,0.995,0.7695,0.9992,0.9921
+yolo11x.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,8,1590.56,0.9939,0.698,1.0,0.9697
+yolo11x.pt,ZavrsniDatasets/JPEG/data.yaml,100,640,0.01,8,1348.24,0.995,0.753,0.9973,0.985

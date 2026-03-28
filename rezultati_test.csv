@@ -1,0 +1,17 @@
+Model,Skup podataka,Broj epoha,Veličina slike,Stopa Učenja,Batch size,Vrijeme Učenja (s),mAP:50,mAP:95,Recall,Precision
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,16,573.33,0.9889,0.8079,0.9807,
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,16,572.76,0.9889,0.8079,0.9807,
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.015,16,581.14,0.9889,0.8079,0.9807,
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.005,16,573.39,0.9889,0.8079,0.9807,
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.0075,16,568.08,0.9889,0.8079,0.9807,
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.0125,16,568.22,0.9889,0.8079,0.9807,
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,32,778.4,0.989,0.7986,0.9894,
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,768,0.01,16,938.25,0.9921,0.7906,0.9865,
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,768,0.01,24,1271.66,0.9924,0.8118,0.982,
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,16,564.07,0.9889,0.8079,0.9807,0.9731
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,768,0.01,16,900.68,0.9921,0.7906,0.9865,0.9868
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,24,587.1,0.987,0.8164,0.9883,0.975
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,768,0.01,24,2115.42,0.9924,0.8118,0.982,0.9862
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,640,0.01,32,641.29,0.989,0.7986,0.9894,0.975
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,150,640,0.01,32,987.23,0.9906,0.819,0.9888,0.984
+yolov8m.pt,ZavrsniDatasets/PNG/data.yaml,100,896,0.01,16,1453.62,0.9926,0.8213,0.9883,0.9857

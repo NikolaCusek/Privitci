@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Linijsko Ostecene', 'Nepostojanje osiguraca', 'Tockasto Ostecenje']
+
+roboflow:
+  workspace: learning1-rz7iy
+  project: zavrni
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/learning1-rz7iy/zavrni/dataset/2

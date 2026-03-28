@@ -1,0 +1,301 @@
+,Podloga,Osigurac,Crta,Tocka,Tocka pozicija,Gotovo,Skip
+0,Crna,Svi,_,.,Gore,0,0
+1,Crna,Svi,_,.,Sredina,0,0
+2,Crna,Svi,_,.,Dolje,0,0
+3,Crna,Svi,_,:,Gore,0,0
+4,Crna,Svi,_,:,Sredina,0,0
+5,Crna,Svi,_,:,Dolje,0,0
+6,Crna,Svi,_,⁂,Gore,0,0
+7,Crna,Svi,_,⁂,Sredina,0,0
+8,Crna,Svi,_,⁂,Dolje,0,0
+9,Crna,Svi,_, ,Nema tocke,0,0
+10,Crna,Svi,|,.,Gore,0,0
+11,Crna,Svi,|,.,Sredina,0,0
+12,Crna,Svi,|,.,Dolje,0,0
+13,Crna,Svi,|,:,Gore,0,0
+14,Crna,Svi,|,:,Sredina,0,0
+15,Crna,Svi,|,:,Dolje,0,0
+16,Crna,Svi,|,⁂,Gore,0,0
+17,Crna,Svi,|,⁂,Sredina,0,0
+18,Crna,Svi,|,⁂,Dolje,0,0
+19,Crna,Svi,|, ,Nema tocke,0,0
+20,Crna,Svi,/,.,Gore,0,0
+21,Crna,Svi,/,.,Sredina,0,0
+22,Crna,Svi,/,.,Dolje,0,0
+23,Crna,Svi,/,:,Gore,0,0
+24,Crna,Svi,/,:,Sredina,0,0
+25,Crna,Svi,/,:,Dolje,0,0
+26,Crna,Svi,/,⁂,Gore,0,0
+27,Crna,Svi,/,⁂,Sredina,0,0
+28,Crna,Svi,/,⁂,Dolje,0,0
+29,Crna,Svi,/, ,Nema tocke,0,0
+30,Crna,Svi,\,.,Gore,0,0
+31,Crna,Svi,\,.,Sredina,0,0
+32,Crna,Svi,\,.,Dolje,0,0
+33,Crna,Svi,\,:,Gore,0,0
+34,Crna,Svi,\,:,Sredina,0,0
+35,Crna,Svi,\,:,Dolje,0,0
+36,Crna,Svi,\,⁂,Gore,0,0
+37,Crna,Svi,\,⁂,Sredina,0,0
+38,Crna,Svi,\,⁂,Dolje,0,0
+39,Crna,Svi,\, ,Nema tocke,0,0
+40,Crna,Svi, ,.,Gore,0,0
+41,Crna,Svi, ,.,Sredina,0,0
+42,Crna,Svi, ,.,Dolje,0,0
+43,Crna,Svi, ,:,Gore,0,0
+44,Crna,Svi, ,:,Sredina,0,0
+45,Crna,Svi, ,:,Dolje,0,0
+46,Crna,Svi, ,⁂,Gore,0,0
+47,Crna,Svi, ,⁂,Sredina,0,0
+48,Crna,Svi, ,⁂,Dolje,0,0
+49,Crna,Svi, , ,Nema tocke,0,0
+50,Crna,Bez Ljevog,_,.,Gore,0,0
+51,Crna,Bez Ljevog,_,.,Sredina,0,0
+52,Crna,Bez Ljevog,_,.,Dolje,0,0
+53,Crna,Bez Ljevog,_,:,Gore,0,0
+54,Crna,Bez Ljevog,_,:,Sredina,0,0
+55,Crna,Bez Ljevog,_,:,Dolje,0,0
+56,Crna,Bez Ljevog,_,⁂,Gore,0,0
+57,Crna,Bez Ljevog,_,⁂,Sredina,0,0
+58,Crna,Bez Ljevog,_,⁂,Dolje,0,0
+59,Crna,Bez Ljevog,_, ,Nema tocke,0,0
+60,Crna,Bez Ljevog,|,.,Gore,0,0
+61,Crna,Bez Ljevog,|,.,Sredina,0,0
+62,Crna,Bez Ljevog,|,.,Dolje,0,0
+63,Crna,Bez Ljevog,|,:,Gore,0,0
+64,Crna,Bez Ljevog,|,:,Sredina,0,0
+65,Crna,Bez Ljevog,|,:,Dolje,0,0
+66,Crna,Bez Ljevog,|,⁂,Gore,0,0
+67,Crna,Bez Ljevog,|,⁂,Sredina,0,0
+68,Crna,Bez Ljevog,|,⁂,Dolje,0,0
+69,Crna,Bez Ljevog,|, ,Nema tocke,0,0
+70,Crna,Bez Ljevog,/,.,Gore,0,0
+71,Crna,Bez Ljevog,/,.,Sredina,0,0
+72,Crna,Bez Ljevog,/,.,Dolje,0,0
+73,Crna,Bez Ljevog,/,:,Gore,0,0
+74,Crna,Bez Ljevog,/,:,Sredina,0,0
+75,Crna,Bez Ljevog,/,:,Dolje,0,0
+76,Crna,Bez Ljevog,/,⁂,Gore,0,0
+77,Crna,Bez Ljevog,/,⁂,Sredina,0,0
+78,Crna,Bez Ljevog,/,⁂,Dolje,0,0
+79,Crna,Bez Ljevog,/, ,Nema tocke,0,0
+80,Crna,Bez Ljevog,\,.,Gore,0,0
+81,Crna,Bez Ljevog,\,.,Sredina,0,0
+82,Crna,Bez Ljevog,\,.,Dolje,0,0
+83,Crna,Bez Ljevog,\,:,Gore,0,0
+84,Crna,Bez Ljevog,\,:,Sredina,0,0
+85,Crna,Bez Ljevog,\,:,Dolje,0,0
+86,Crna,Bez Ljevog,\,⁂,Gore,0,0
+87,Crna,Bez Ljevog,\,⁂,Sredina,0,0
+88,Crna,Bez Ljevog,\,⁂,Dolje,0,0
+89,Crna,Bez Ljevog,\, ,Nema tocke,0,0
+90,Crna,Bez Ljevog, ,.,Gore,0,0
+91,Crna,Bez Ljevog, ,.,Sredina,0,0
+92,Crna,Bez Ljevog, ,.,Dolje,0,0
+93,Crna,Bez Ljevog, ,:,Gore,0,0
+94,Crna,Bez Ljevog, ,:,Sredina,0,0
+95,Crna,Bez Ljevog, ,:,Dolje,0,0
+96,Crna,Bez Ljevog, ,⁂,Gore,0,0
+97,Crna,Bez Ljevog, ,⁂,Sredina,0,0
+98,Crna,Bez Ljevog, ,⁂,Dolje,0,0
+99,Crna,Bez Ljevog, , ,Nema tocke,0,0
+100,Crna,Bez desnog,_,.,Gore,0,0
+101,Crna,Bez desnog,_,.,Sredina,0,0
+102,Crna,Bez desnog,_,.,Dolje,0,0
+103,Crna,Bez desnog,_,:,Gore,0,0
+104,Crna,Bez desnog,_,:,Sredina,0,0
+105,Crna,Bez desnog,_,:,Dolje,0,0
+106,Crna,Bez desnog,_,⁂,Gore,0,0
+107,Crna,Bez desnog,_,⁂,Sredina,0,0
+108,Crna,Bez desnog,_,⁂,Dolje,0,0
+109,Crna,Bez desnog,_, ,Nema tocke,0,0
+110,Crna,Bez desnog,|,.,Gore,0,0
+111,Crna,Bez desnog,|,.,Sredina,0,0
+112,Crna,Bez desnog,|,.,Dolje,0,0
+113,Crna,Bez desnog,|,:,Gore,0,0
+114,Crna,Bez desnog,|,:,Sredina,0,0
+115,Crna,Bez desnog,|,:,Dolje,0,0
+116,Crna,Bez desnog,|,⁂,Gore,0,0
+117,Crna,Bez desnog,|,⁂,Sredina,0,0
+118,Crna,Bez desnog,|,⁂,Dolje,0,0
+119,Crna,Bez desnog,|, ,Nema tocke,0,0
+120,Crna,Bez desnog,/,.,Gore,0,0
+121,Crna,Bez desnog,/,.,Sredina,0,0
+122,Crna,Bez desnog,/,.,Dolje,0,0
+123,Crna,Bez desnog,/,:,Gore,0,0
+124,Crna,Bez desnog,/,:,Sredina,0,0
+125,Crna,Bez desnog,/,:,Dolje,0,0
+126,Crna,Bez desnog,/,⁂,Gore,0,0
+127,Crna,Bez desnog,/,⁂,Sredina,0,0
+128,Crna,Bez desnog,/,⁂,Dolje,0,0
+129,Crna,Bez desnog,/, ,Nema tocke,0,0
+130,Crna,Bez desnog,\,.,Gore,0,0
+131,Crna,Bez desnog,\,.,Sredina,0,0
+132,Crna,Bez desnog,\,.,Dolje,0,0
+133,Crna,Bez desnog,\,:,Gore,0,0
+134,Crna,Bez desnog,\,:,Sredina,0,0
+135,Crna,Bez desnog,\,:,Dolje,0,0
+136,Crna,Bez desnog,\,⁂,Gore,0,0
+137,Crna,Bez desnog,\,⁂,Sredina,0,0
+138,Crna,Bez desnog,\,⁂,Dolje,0,0
+139,Crna,Bez desnog,\, ,Nema tocke,0,0
+140,Crna,Bez desnog, ,.,Gore,0,0
+141,Crna,Bez desnog, ,.,Sredina,0,0
+142,Crna,Bez desnog, ,.,Dolje,0,0
+143,Crna,Bez desnog, ,:,Gore,0,0
+144,Crna,Bez desnog, ,:,Sredina,0,0
+145,Crna,Bez desnog, ,:,Dolje,0,0
+146,Crna,Bez desnog, ,⁂,Gore,0,0
+147,Crna,Bez desnog, ,⁂,Sredina,0,0
+148,Crna,Bez desnog, ,⁂,Dolje,0,0
+149,Crna,Bez desnog, , ,Nema tocke,0,0
+150,Bijela,Svi,_,.,Gore,0,0
+151,Bijela,Svi,_,.,Sredina,0,0
+152,Bijela,Svi,_,.,Dolje,0,0
+153,Bijela,Svi,_,:,Gore,0,0
+154,Bijela,Svi,_,:,Sredina,0,0
+155,Bijela,Svi,_,:,Dolje,0,0
+156,Bijela,Svi,_,⁂,Gore,0,0
+157,Bijela,Svi,_,⁂,Sredina,0,0
+158,Bijela,Svi,_,⁂,Dolje,0,0
+159,Bijela,Svi,_, ,Nema tocke,0,0
+160,Bijela,Svi,|,.,Gore,0,0
+161,Bijela,Svi,|,.,Sredina,0,0
+162,Bijela,Svi,|,.,Dolje,0,0
+163,Bijela,Svi,|,:,Gore,0,0
+164,Bijela,Svi,|,:,Sredina,0,0
+165,Bijela,Svi,|,:,Dolje,0,0
+166,Bijela,Svi,|,⁂,Gore,0,0
+167,Bijela,Svi,|,⁂,Sredina,0,0
+168,Bijela,Svi,|,⁂,Dolje,0,0
+169,Bijela,Svi,|, ,Nema tocke,0,0
+170,Bijela,Svi,/,.,Gore,0,0
+171,Bijela,Svi,/,.,Sredina,0,0
+172,Bijela,Svi,/,.,Dolje,0,0
+173,Bijela,Svi,/,:,Gore,0,0
+174,Bijela,Svi,/,:,Sredina,0,0
+175,Bijela,Svi,/,:,Dolje,0,0
+176,Bijela,Svi,/,⁂,Gore,0,0
+177,Bijela,Svi,/,⁂,Sredina,0,0
+178,Bijela,Svi,/,⁂,Dolje,0,0
+179,Bijela,Svi,/, ,Nema tocke,0,0
+180,Bijela,Svi,\,.,Gore,0,0
+181,Bijela,Svi,\,.,Sredina,0,0
+182,Bijela,Svi,\,.,Dolje,0,0
+183,Bijela,Svi,\,:,Gore,0,0
+184,Bijela,Svi,\,:,Sredina,0,0
+185,Bijela,Svi,\,:,Dolje,0,0
+186,Bijela,Svi,\,⁂,Gore,0,0
+187,Bijela,Svi,\,⁂,Sredina,0,0
+188,Bijela,Svi,\,⁂,Dolje,0,0
+189,Bijela,Svi,\, ,Nema tocke,0,0
+190,Bijela,Svi, ,.,Gore,0,0
+191,Bijela,Svi, ,.,Sredina,0,0
+192,Bijela,Svi, ,.,Dolje,0,0
+193,Bijela,Svi, ,:,Gore,0,0
+194,Bijela,Svi, ,:,Sredina,0,0
+195,Bijela,Svi, ,:,Dolje,0,0
+196,Bijela,Svi, ,⁂,Gore,0,0
+197,Bijela,Svi, ,⁂,Sredina,0,0
+198,Bijela,Svi, ,⁂,Dolje,0,0
+199,Bijela,Svi, , ,Nema tocke,0,0
+200,Bijela,Bez Ljevog,_,.,Gore,0,0
+201,Bijela,Bez Ljevog,_,.,Sredina,0,0
+202,Bijela,Bez Ljevog,_,.,Dolje,0,0
+203,Bijela,Bez Ljevog,_,:,Gore,0,0
+204,Bijela,Bez Ljevog,_,:,Sredina,0,0
+205,Bijela,Bez Ljevog,_,:,Dolje,0,0
+206,Bijela,Bez Ljevog,_,⁂,Gore,0,0
+207,Bijela,Bez Ljevog,_,⁂,Sredina,0,0
+208,Bijela,Bez Ljevog,_,⁂,Dolje,0,0
+209,Bijela,Bez Ljevog,_, ,Nema tocke,0,0
+210,Bijela,Bez Ljevog,|,.,Gore,0,0
+211,Bijela,Bez Ljevog,|,.,Sredina,0,0
+212,Bijela,Bez Ljevog,|,.,Dolje,0,0
+213,Bijela,Bez Ljevog,|,:,Gore,0,0
+214,Bijela,Bez Ljevog,|,:,Sredina,0,0
+215,Bijela,Bez Ljevog,|,:,Dolje,0,0
+216,Bijela,Bez Ljevog,|,⁂,Gore,0,0
+217,Bijela,Bez Ljevog,|,⁂,Sredina,0,0
+218,Bijela,Bez Ljevog,|,⁂,Dolje,0,0
+219,Bijela,Bez Ljevog,|, ,Nema tocke,0,0
+220,Bijela,Bez Ljevog,/,.,Gore,0,0
+221,Bijela,Bez Ljevog,/,.,Sredina,0,0
+222,Bijela,Bez Ljevog,/,.,Dolje,0,0
+223,Bijela,Bez Ljevog,/,:,Gore,0,0
+224,Bijela,Bez Ljevog,/,:,Sredina,0,0
+225,Bijela,Bez Ljevog,/,:,Dolje,0,0
+226,Bijela,Bez Ljevog,/,⁂,Gore,0,0
+227,Bijela,Bez Ljevog,/,⁂,Sredina,0,0
+228,Bijela,Bez Ljevog,/,⁂,Dolje,0,0
+229,Bijela,Bez Ljevog,/, ,Nema tocke,0,0
+230,Bijela,Bez Ljevog,\,.,Gore,0,0
+231,Bijela,Bez Ljevog,\,.,Sredina,0,0
+232,Bijela,Bez Ljevog,\,.,Dolje,0,0
+233,Bijela,Bez Ljevog,\,:,Gore,0,0
+234,Bijela,Bez Ljevog,\,:,Sredina,0,0
+235,Bijela,Bez Ljevog,\,:,Dolje,0,0
+236,Bijela,Bez Ljevog,\,⁂,Gore,0,0
+237,Bijela,Bez Ljevog,\,⁂,Sredina,0,0
+238,Bijela,Bez Ljevog,\,⁂,Dolje,0,0
+239,Bijela,Bez Ljevog,\, ,Nema tocke,0,0
+240,Bijela,Bez Ljevog, ,.,Gore,0,0
+241,Bijela,Bez Ljevog, ,.,Sredina,0,0
+242,Bijela,Bez Ljevog, ,.,Dolje,0,0
+243,Bijela,Bez Ljevog, ,:,Gore,0,0
+244,Bijela,Bez Ljevog, ,:,Sredina,0,0
+245,Bijela,Bez Ljevog, ,:,Dolje,0,0
+246,Bijela,Bez Ljevog, ,⁂,Gore,0,0
+247,Bijela,Bez Ljevog, ,⁂,Sredina,0,0
+248,Bijela,Bez Ljevog, ,⁂,Dolje,0,0
+249,Bijela,Bez Ljevog, , ,Nema tocke,0,0
+250,Bijela,Bez desnog,_,.,Gore,0,0
+251,Bijela,Bez desnog,_,.,Sredina,0,0
+252,Bijela,Bez desnog,_,.,Dolje,0,0
+253,Bijela,Bez desnog,_,:,Gore,0,0
+254,Bijela,Bez desnog,_,:,Sredina,0,0
+255,Bijela,Bez desnog,_,:,Dolje,0,0
+256,Bijela,Bez desnog,_,⁂,Gore,0,0
+257,Bijela,Bez desnog,_,⁂,Sredina,0,0
+258,Bijela,Bez desnog,_,⁂,Dolje,0,0
+259,Bijela,Bez desnog,_, ,Nema tocke,0,0
+260,Bijela,Bez desnog,|,.,Gore,0,0
+261,Bijela,Bez desnog,|,.,Sredina,0,0
+262,Bijela,Bez desnog,|,.,Dolje,0,0
+263,Bijela,Bez desnog,|,:,Gore,0,0
+264,Bijela,Bez desnog,|,:,Sredina,0,0
+265,Bijela,Bez desnog,|,:,Dolje,0,0
+266,Bijela,Bez desnog,|,⁂,Gore,0,0
+267,Bijela,Bez desnog,|,⁂,Sredina,0,0
+268,Bijela,Bez desnog,|,⁂,Dolje,0,0
+269,Bijela,Bez desnog,|, ,Nema tocke,0,0
+270,Bijela,Bez desnog,/,.,Gore,0,0
+271,Bijela,Bez desnog,/,.,Sredina,0,0
+272,Bijela,Bez desnog,/,.,Dolje,0,0
+273,Bijela,Bez desnog,/,:,Gore,0,0
+274,Bijela,Bez desnog,/,:,Sredina,0,0
+275,Bijela,Bez desnog,/,:,Dolje,0,0
+276,Bijela,Bez desnog,/,⁂,Gore,0,0
+277,Bijela,Bez desnog,/,⁂,Sredina,0,0
+278,Bijela,Bez desnog,/,⁂,Dolje,0,0
+279,Bijela,Bez desnog,/, ,Nema tocke,0,0
+280,Bijela,Bez desnog,\,.,Gore,0,0
+281,Bijela,Bez desnog,\,.,Sredina,0,0
+282,Bijela,Bez desnog,\,.,Dolje,0,0
+283,Bijela,Bez desnog,\,:,Gore,0,0
+284,Bijela,Bez desnog,\,:,Sredina,0,0
+285,Bijela,Bez desnog,\,:,Dolje,0,0
+286,Bijela,Bez desnog,\,⁂,Gore,0,0
+287,Bijela,Bez desnog,\,⁂,Sredina,0,0
+288,Bijela,Bez desnog,\,⁂,Dolje,0,0
+289,Bijela,Bez desnog,\, ,Nema tocke,0,0
+290,Bijela,Bez desnog, ,.,Gore,0,0
+291,Bijela,Bez desnog, ,.,Sredina,0,0
+292,Bijela,Bez desnog, ,.,Dolje,0,0
+293,Bijela,Bez desnog, ,:,Gore,0,0
+294,Bijela,Bez desnog, ,:,Sredina,0,0
+295,Bijela,Bez desnog, ,:,Dolje,0,0
+296,Bijela,Bez desnog, ,⁂,Gore,0,0
+297,Bijela,Bez desnog, ,⁂,Sredina,0,0
+298,Bijela,Bez desnog, ,⁂,Dolje,0,0
+299,Bijela,Bez desnog, , ,Nema tocke,0,0
