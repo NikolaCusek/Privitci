@@ -19,7 +19,7 @@ for i, h in zip(("yolo11s.pt","yolo11m.pt", "yolo11l.pt", "yolo11x.pt"), (32, 32
     for g in ("PNG", "JPEG"):
         chooser.append((i, h, g))
 
-iterat = 7 #Pytorch se rusi u slucaju ako pokusam staviti cijelu skriptu za ucenje u for petlju, zato se to radi rucno
+iterat = 7 #Rusi se u slucaju ako pokusam staviti cijelu skriptu za ucenje u for petlju, zato se to radi rucno
 
 #Postavke
 chosen_model = chooser[iterat][0]
